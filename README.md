@@ -1,3 +1,5 @@
+<p align="center"><img  src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/></p>
+
 # 💫About Me :
 I'm a full-stack developer with a degree in medicine. I love challenges and solving them.
 Idea, teamwork, and quality of the project are very important for me special.
