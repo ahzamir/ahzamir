@@ -25,4 +25,4 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadz
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-Since April 2022: [![](https://visitcount.itsvg.in/api?id=ahzamir&icon=6&color=0)](https://visitcount.itsvg.in)
+Since April 2022: [![](https://visitcount.itsvg.in/api?id=ahzamir&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
