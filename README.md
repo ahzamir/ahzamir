@@ -27,7 +27,6 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadz
 ![](https://github-readme-stats.vercel.app/api?username=ahzamir&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahzamir&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahzamir&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![.](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahzamir&theme=radical&no-frame=false&no-bg=false&margin-w=4)
