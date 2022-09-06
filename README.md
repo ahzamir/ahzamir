@@ -20,7 +20,27 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadz
 
 
 # 💻Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+<div align="left">
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma"  width="40px" /> 
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=ps" alt="photoshop"  width="40px" /> 
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=ai"  alt="Illustrator"  width="40px" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD"  width="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript"  width="40px" /> 
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5"  width="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3"  width="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=wordpress" alt="wordpress"  width="40px" /> 
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git"  width="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"  width="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="postgres"  width="40px" />         
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap"  width="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=jest" alt="Jest"  width="40px" height="40px" />  
+<img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg" alt="postman"  width="40px" height="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="react"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="vscode"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=webpack" alt="webpack"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=heroku" alt="heroku"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=netlify" alt="netlify"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=redux" alt="redux"  width="40px" height="40px" />
 
 
 # 📊GitHub Stats :
