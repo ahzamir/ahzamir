@@ -35,4 +35,5 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadz
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+🎯 [](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{ahzamir}1212%2Fhit-counter)
 Since April 2022: [![](https://visitcount.itsvg.in/api?id=ahzamir&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
