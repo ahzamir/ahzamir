@@ -28,7 +28,6 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadz
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript"  width="40px" /> 
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5"  width="40px" />  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3"  width="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="sass"  width="40px" />  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=wordpress" alt="wordpress"  width="40px" /> 
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git"  width="40px" />  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"  width="40px" />  
@@ -44,6 +43,7 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadz
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=redux" alt="redux"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=ruby" alt="ruby"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=rails" alt="rails"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=RSpec" alt="RSpec"  width="40px" height="40px" />
 
 
 # 📊GitHub Stats :
