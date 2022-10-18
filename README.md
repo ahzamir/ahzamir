@@ -49,7 +49,7 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadz
 
 
 # 📊GitHub Stats :
- ![Zamir's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ahzamir&theme=dark&hide_border=true&area=true)
+ ![Zamir's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ahzamir&theme=radical&hide_border=true&area=true)
 ![](https://github-readme-stats.vercel.app/api?username=ahzamir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahzamir&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahzamir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -60,7 +60,5 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadz
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-Since April 2022: [![](https://visitcount.itsvg.in/api?id=ahzamir&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 ---
 [![](https://visitcount.itsvg.in/api?id=ahzamir&icon=0&color=12)](https://visitcount.itsvg.in)
