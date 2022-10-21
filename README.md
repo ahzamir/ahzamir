@@ -17,18 +17,15 @@ Backend: Ruby, Ruby on Rails, REST API, SQL, PostgreSQL
 Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadzamiryousofi1397@gmail.com.
 
 <div align="center">
-  <! -- <img src="https://badges.pufler.dev/visits/ahzamir/ahzamir?color=3f37c9">
-  <img src="https://komarev.com/ghpvc/?username=ahzamir&color=3f37c9">
+  ---
+  [![](https://visitcount.itsvg.in/api?id=ahzamir&icon=0&color=12)](https://visitcount.itsvg.in)
   <a href = "https://commits.top/afghanistan.html" target="_blank">
-		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="ahzamir" target="_blank"/> 
+		<img src="https://img.shields.io/badge/Most%20Active%20GitHub%20User%20in%20Afghanistan%20Rank-%232-lightgrey" alt="ahzamir" target="_blank"/> 
 	</a>
 </div>
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012126671675) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmad_zamir_yousufi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahzamir) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=WhatsApp&logoColor=white)](https://wa.me/93700516248) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)]
-
----
-[![](https://visitcount.itsvg.in/api?id=ahzamir&icon=0&color=12)](https://visitcount.itsvg.in)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012126671675) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmad_zamir_yousufi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahzamir) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=WhatsApp&logoColor=white)](https://wa.me/93700516248) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/ahzamir)
   
 
 # 💻Tech Stack
