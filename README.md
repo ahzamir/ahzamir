@@ -16,12 +16,13 @@ Frontend: HTML, CSS, JavaScript, React, Redux
 Backend: Ruby, Ruby on Rails, REST API, SQL, PostgreSQL
 Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadzamiryousofi1397@gmail.com.
 
+---
+[![](https://visitcount.itsvg.in/api?id=ahzamir&icon=0&color=12)](https://visitcount.itsvg.in)
+
 <div align="center">
-  ---
-  [![](https://visitcount.itsvg.in/api?id=ahzamir&icon=0&color=12)](https://visitcount.itsvg.in)
   <a href = "https://commits.top/afghanistan.html" target="_blank">
 		<img src="https://img.shields.io/badge/Most%20Active%20GitHub%20User%20in%20Afghanistan%20Rank-%232-lightgrey" alt="ahzamir" target="_blank"/> 
-	</a>
+  </a>
 </div>
 
 ## 🌐Socials
