@@ -21,7 +21,7 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadz
 
 <div align="start">
   <a href = "https://commits.top/afghanistan.html" target="_blank">
-		<img src="https://img.shields.io/badge/Most%20Active%20GitHub%20User%20in%20Afghanistan%20Rank-%232-lightgrey" alt="ahzamir" target="_blank"/> 
+		<img src="https://img.shields.io/badge/Most%20Active%20GitHub%20User%20in%20Afghanistan%20Rank-%232-lightgrey" alt="ahzamir" target="_blank" height="25" />
   </a>
 </div>
 
