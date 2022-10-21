@@ -17,10 +17,10 @@ Backend: Ruby, Ruby on Rails, REST API, SQL, PostgreSQL
 Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadzamiryousofi1397@gmail.com.
 
 <div align="center">
-  <! -- <img src="https://badges.pufler.dev/visits/ha-manel/ha-manel?color=3f37c9">
-  <img src="https://komarev.com/ghpvc/?username=ha-manel&color=3f37c9">
-  <a href = "https://commits.top/algeria.html" target="_blank">
-		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="ha-manel" target="_blank"/> 
+  <! -- <img src="https://badges.pufler.dev/visits/ahzamir/ahzamir?color=3f37c9">
+  <img src="https://komarev.com/ghpvc/?username=ahzamir&color=3f37c9">
+  <a href = "https://commits.top/afghanistan.html" target="_blank">
+		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="ahzamir" target="_blank"/> 
 	</a>
 </div>
 
@@ -62,7 +62,7 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadz
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=terminal" alt="terminal"  width="40px" height="40px" />
 </div>
 
-# Certificates and Licenses
+# 📜Certificates and Licenses
 
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/ad7d12a5-5f61-45b7-ac59-4c978a0784a1#gs.fqjwn9" target="_blank"><img src="./images/html-css.png" alt="html-css"  width="80"></a><a href="https://www.credential.net/c48dc01c-a16d-40f4-9673-224f819ed3fa#gs.fqkctk" target="_blamk"><img src="./images/javascript.png" alt="javascript"  width="80"></a><a href="https://www.credential.net/0fd5251e-4562-444b-9985-41475dc5fbc0#gs.fqkvx2" target="_blank"><img src="./images/react-redux.png" alt="react-redux"  width="80"></a><a href="https://www.credential.net/493dcb38-b77f-4a40-b06f-751bd01ff108#gs.fqkzfn" target="_blank"><img src="./images/ruby.png" alt="ruby"  width="80"></a><a href="https://www.credential.net/bf0e3410-5cc9-4e14-800c-f52d3037715f#gs.fql30d" target="_blank"><img src="./images/ruby-on-rails.png" alt="ruby-on-rails"  width="80"></a><a href="https://www.credential.net/6319e66d-9ca1-4ecd-a528-c5b0f4ca2a3f#gs.fqtl4n" target="_blank"><img src="./images/full-stack.png" alt="full-stack"  width="80"></a>
