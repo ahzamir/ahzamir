@@ -12,12 +12,24 @@
 I'm a full-stack developer with a degree in medicine. I love challenges and solving them.
 Idea, teamwork, and quality of the project are very important for me special.
 I've spent the last several months enrolled in a remote software development school, practicing pair programming, with people across different time zones.
-Frontend: Javascript, Html, Css
+Frontend: HTML, CSS, JavaScript, React, Redux
+Backend: Ruby, Ruby on Rails, REST API, SQL, PostgreSQL
 Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadzamiryousofi1397@gmail.com.
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012126671675) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmad_zamir_yousufi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahzamir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YousufiZamir) 
+<div align="center">
+  <! -- <img src="https://badges.pufler.dev/visits/ha-manel/ha-manel?color=3f37c9">
+  <img src="https://komarev.com/ghpvc/?username=ha-manel&color=3f37c9">
+  <a href = "https://commits.top/algeria.html" target="_blank">
+		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="ha-manel" target="_blank"/> 
+	</a>
+</div>
 
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012126671675) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmad_zamir_yousufi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahzamir) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=WhatsApp&logoColor=white)](https://wa.me/93700516248) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)]
+
+---
+[![](https://visitcount.itsvg.in/api?id=ahzamir&icon=0&color=12)](https://visitcount.itsvg.in)
+  
 
 # 💻Tech Stack
 <div align="left">
@@ -46,19 +58,24 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadz
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=ruby" alt="ruby"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=rails" alt="rails"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="linux"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=terminal" alt="terminal"  width="40px" height="40px" />
+</div>
 
+# Certificates and Licenses
+
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/ad7d12a5-5f61-45b7-ac59-4c978a0784a1#gs.fqjwn9" target="_blank"><img src="./images/html-css.png" alt="html-css"  width="80"></a><a href="https://www.credential.net/c48dc01c-a16d-40f4-9673-224f819ed3fa#gs.fqkctk" target="_blamk"><img src="./images/javascript.png" alt="javascript"  width="80"></a><a href="https://www.credential.net/0fd5251e-4562-444b-9985-41475dc5fbc0#gs.fqkvx2" target="_blank"><img src="./images/react-redux.png" alt="react-redux"  width="80"></a><a href="https://www.credential.net/493dcb38-b77f-4a40-b06f-751bd01ff108#gs.fqkzfn" target="_blank"><img src="./images/ruby.png" alt="ruby"  width="80"></a><a href="https://www.credential.net/bf0e3410-5cc9-4e14-800c-f52d3037715f#gs.fql30d" target="_blank"><img src="./images/ruby-on-rails.png" alt="ruby-on-rails"  width="80"></a><a href="https://www.credential.net/6319e66d-9ca1-4ecd-a528-c5b0f4ca2a3f#gs.fqtl4n" target="_blank"><img src="./images/full-stack.png" alt="full-stack"  width="80"></a>
+</p>
 
 # 📊GitHub Stats :
  ![Zamir's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ahzamir&theme=redical&hide_border=true&area=true)
 ![](https://github-readme-stats.vercel.app/api?username=ahzamir&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahzamir&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahzamir&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahzamir&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahzamir&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=ahzamir&icon=0&color=12)](https://visitcount.itsvg.in)
