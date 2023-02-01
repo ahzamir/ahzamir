@@ -67,7 +67,7 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadz
 </p>
 
 # 📊GitHub Stats :
- ![Zamir's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ahzamir&theme=redical&hide_border=true&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=ahzamir&theme=redical&hide_border=true&area=true)
 ![](https://github-readme-stats.vercel.app/api?username=ahzamir&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahzamir&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahzamir&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
