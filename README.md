@@ -9,13 +9,9 @@
 
 
 # 💫About Me :
-I'm a full-stack developer with a degree in medicine. I love challenges and solving them.
-Idea, teamwork, and quality of the project are very important for me special.
-I've spent the last several months enrolled in a remote software development school, practicing pair programming, with people across different time zones.
-Frontend: HTML, CSS, JavaScript, React, Redux
-Backend: Ruby, Ruby on Rails, REST API, SQL, PostgreSQL
-Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadzamiryousofi1397@gmail.com.
-
+As a full-stack software engineer, I am passionate about crafting clean code, designing responsive web interfaces, and following test-driven development practices. I possess a deep understanding of multiple programming languages, frameworks, and technologies that allow me to work efficiently both independently and as part of a productive remote team. Quality code, teamwork, and innovative ideas are my top priorities, and I have honed these skills at Microverse, a renowned remote software development school, where I have spent the last several months practicing pair programming and remote software development with a diverse group of individuals across different time zones.
+Frontend: HTML, CSS, JavaScript, React, Redux, Bootstrap, Material UI, SASS, jQuery, AJAX, Webpack, Jest, React Testing Library, Cypress, Enzyme, and React Router.
+Backend: Ruby, Ruby on Rails, SQL, PostgreSQL, Node.js, Express.js, MongoDB, Mongoose, and RESTful APIs.
 ---
 [![](https://visitcount.itsvg.in/api?id=ahzamir&icon=0&color=12)](https://visitcount.itsvg.in)
 
