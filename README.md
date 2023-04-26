@@ -15,10 +15,9 @@
     Frontend: HTML, CSS, JavaScript, React, Redux, Bootstrap, Material UI, SASS, jQuery, AJAX, Webpack, Jest, React Testing Library, Cypress, Enzyme, and React Router.
     Backend: Ruby, Ruby on Rails, SQL, PostgreSQL, Node.js, Express.js, MongoDB, Mongoose, and RESTful APIs.
   </samp>
-  </samp>
 </p>
 ---
-[![](https://visitcount.itsvg.in/api?id=ahzamir&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ahzamir&icon=0&color=12)]
 
 <div align="start">
   <a href = "https://commits.top/afghanistan.html" target="_blank">
