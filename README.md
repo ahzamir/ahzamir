@@ -44,8 +44,8 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadz
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=ruby" alt="ruby"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=rails" alt="rails"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="postgres"  width="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"  width="40px" /> 
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="linux"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git"  width="40px" /> 
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="github"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma"  width="40px" /> 
@@ -53,8 +53,6 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadz
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=ai"  alt="Illustrator"  width="40px" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD"  width="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=wordpress" alt="wordpress"  width="40px" /> 
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"  width="40px" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap"  width="40px" />  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=jest" alt="Jest"  width="40px" height="40px" />  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=babel" alt="babel"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="vscode"  width="40px" height="40px" />
