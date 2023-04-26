@@ -29,7 +29,7 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadz
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012126671675) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmad_zamir_yousufi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahzamir) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=WhatsApp&logoColor=white)](https://wa.me/93700516248) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/ahzamir)
   
 
-# 💻Tech Stack
+## 💻Tech Stack
 <div align="left">
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5"  width="40px" />  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3"  width="40px" />
@@ -62,13 +62,13 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadz
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=terminal" alt="terminal"  width="40px" height="40px" />
 </div>
 
-# 📜Certificates and Licenses
+## 📜Certificates and Licenses
 
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/ad7d12a5-5f61-45b7-ac59-4c978a0784a1#gs.fqjwn9" target="_blank"><img src="./images/html-css.png" alt="html-css"  width="80"></a><a href="https://www.credential.net/c48dc01c-a16d-40f4-9673-224f819ed3fa#gs.fqkctk" target="_blamk"><img src="./images/javascript.png" alt="javascript"  width="80"></a><a href="https://www.credential.net/0fd5251e-4562-444b-9985-41475dc5fbc0#gs.fqkvx2" target="_blank"><img src="./images/react-redux.png" alt="react-redux"  width="80"></a><a href="https://www.credential.net/493dcb38-b77f-4a40-b06f-751bd01ff108#gs.fqkzfn" target="_blank"><img src="./images/ruby.png" alt="ruby"  width="80"></a><a href="https://www.credential.net/bf0e3410-5cc9-4e14-800c-f52d3037715f#gs.fql30d" target="_blank"><img src="./images/ruby-on-rails.png" alt="ruby-on-rails"  width="80"></a><a href="https://www.credential.net/6319e66d-9ca1-4ecd-a528-c5b0f4ca2a3f#gs.fqtl4n" target="_blank"><img src="./images/full-stack.png" alt="full-stack"  width="80"></a>
 </p>
 
-# 📊GitHub Stats :
+## 📊GitHub Stats :
 ![](https://activity-graph.herokuapp.com/graph?username=ahzamir&theme=redical&hide_border=true&area=true)
 ![](https://github-readme-stats.vercel.app/api?username=ahzamir&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahzamir&theme=highcontrast&hide_border=false)<br/>
@@ -77,5 +77,5 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ahmadz
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahzamir&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
