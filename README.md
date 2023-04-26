@@ -16,8 +16,9 @@
     Backend: Ruby, Ruby on Rails, SQL, PostgreSQL, Node.js, Express.js, MongoDB, Mongoose, and RESTful APIs.
   </samp>
 </p>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=ahzamir&icon=0&color=12)]
+[![](https://visitcount.itsvg.in/api?id=ahzamir&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <div align="start">
   <a href = "https://commits.top/afghanistan.html" target="_blank">
