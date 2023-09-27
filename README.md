@@ -1,8 +1,8 @@
-<div style="background-color: #000000; padding: 20px; margin-top: 50px; margin-bottom: 50px; border-radius: 10px; box-shadow: 2px 2px 4px #000000;">
+<div style="background-color: #000; padding: 20px; margin-top: 50px; margin-bottom: 50px; border-radius: 10px; box-shadow: 2px 2px 4px #000000; border: 2px dotted #3d82ef;">
   <img  src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="auto" />
 
-  <h1 style="font-family: 'Courier New', Courier, monospace; font-size: 50px; font-weight: bold; text-align: center; color: #ff0000; text-shadow: 2px 2px 4px #000000; margin-top: 50px; margin-bottom: 50px;">
-        𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <h1 style="font-family: 'Courier New', Courier, monospace; font-size: 20px; font-weight: bold; text-align: center; color: white; text-shadow: 2px 2px 4px #000000; margin-top: 20px; margin-bottom: 20px;">
+        𝐇𝐞𝐥𝐥𝐨, <span style="color: #3d82ef;">&lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;</span>! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </h1>
 </div>
 
@@ -18,21 +18,18 @@
 
 [![](https://visitcount.itsvg.in/api?id=ahzamir&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <a href = "https://commits.top/afghanistan.html" target="_blank">
-		<img src="https://img.shields.io/badge/Most%20Active%20GitHub%20User%20in%20Afghanistan%20Rank-%232-lightgrey" alt="ahzamir" target="_blank" height="25" />
-  </a>
-</div>
-
 ## 🌐Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012126671675) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmad_zamir_yousufi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahzamir) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=WhatsApp&logoColor=white)](https://wa.me/93700516248) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/ahzamir)
 
 ## 💻Tech Stack
 
-<div align="left">
+<div align="left" style="font-size: 20px; font-weight: bold; color: #fff; margin-top: 20px; margin-bottom: 20px;">
 Frontend: HTML, CSS, JavaScript, TypeScript, React, Next JS, Redux, Bootstrap, Tailwind CSS, Material UI, SASS, jQuery, AJAX, Webpack, Jest, React Testing Library, Cypress, Enzyme, and React Router.
 Backend: Ruby, Ruby on Rails, SQL, PostgreSQL, Node.js, Express.js, MongoDB, Mongoose, and RESTful APIs.
+</div>
+
+<div align="left">
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5"  width="40px" />  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3"  width="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript"  width="40px" />
