@@ -35,10 +35,13 @@
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5"  width="40px" />  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3"  width="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript"  width="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="JavaScript"  width="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="bootstrap"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React"  width="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=redux" alt="redux"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=sass" alt="sass"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="bootstrap"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=materialui" alt="materialui"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="express"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"  width="40px" height="40px" />
