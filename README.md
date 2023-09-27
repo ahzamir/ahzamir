@@ -29,41 +29,6 @@ Frontend: HTML, CSS, JavaScript, TypeScript, React, Next JS, Redux, Bootstrap, T
 Backend: Ruby, Ruby on Rails, SQL, PostgreSQL, Node.js, Express.js, MongoDB, Mongoose, and RESTful APIs.
 </div>
 
-<div align="left">
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5"  width="40px" />  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3"  width="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript"  width="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="JavaScript"  width="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="bootstrap"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React"  width="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=redux" alt="redux"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=sass" alt="sass"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="bootstrap"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=materialui" alt="materialui"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="express"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=ruby" alt="ruby"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=rails" alt="rails"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="postgres"  width="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"  width="40px" /> 
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="linux"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git"  width="40px" /> 
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="github"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma"  width="40px" /> 
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=ps" alt="photoshop"  width="40px" /> 
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=ai"  alt="Illustrator"  width="40px" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD"  width="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=wordpress" alt="wordpress"  width="40px" /> 
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=jest" alt="Jest"  width="40px" height="40px" />  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=babel" alt="babel"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="vscode"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=webpack" alt="webpack"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=heroku" alt="heroku"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=netlify" alt="netlify"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=terminal" alt="terminal"  width="40px" height="40px" />
-</div>
-
 ## 📜Certificates and Licenses
 
 <p align="left">
