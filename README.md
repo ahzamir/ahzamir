@@ -1,14 +1,13 @@
-<p align="center"><img  src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/></p>
+<div style="background-color: #000000; padding: 20px; margin-top: 50px; margin-bottom: 50px; border-radius: 10px; box-shadow: 2px 2px 4px #000000;">
+  <img  src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="auto" />
 
-<h1  color="pink">
+  <h1 style="font-family: 'Courier New', Courier, monospace; font-size: 50px; font-weight: bold; text-align: center; color: #ff0000; text-shadow: 2px 2px 4px #000000; margin-top: 50px; margin-bottom: 50px;">
         𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
-</h1>
-
+  </h1>
+</div>
 
 # 💫About Me :
+
 <p align="center">
   <samp>
     As a full-stack software engineer, I am passionate about crafting clean code, designing responsive web interfaces, and following test-driven development practices. I possess a deep understanding of multiple programming languages, frameworks, and technologies that allow me to work efficiently both independently and as part of a productive remote team. Quality code, teamwork, and innovative ideas are my top priorities, and I have honed these skills at Microverse, a renowned remote software development school, where I have spent the last several months practicing pair programming and remote software development with a diverse group of individuals across different time zones.
@@ -16,19 +15,21 @@
 </p>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=ahzamir&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<div align="start">
+<div align="center">
   <a href = "https://commits.top/afghanistan.html" target="_blank">
 		<img src="https://img.shields.io/badge/Most%20Active%20GitHub%20User%20in%20Afghanistan%20Rank-%232-lightgrey" alt="ahzamir" target="_blank" height="25" />
   </a>
 </div>
 
 ## 🌐Socials
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012126671675) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmad_zamir_yousufi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahzamir) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=WhatsApp&logoColor=white)](https://wa.me/93700516248) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/ahzamir)
-  
 
 ## 💻Tech Stack
+
 <div align="left">
 Frontend: HTML, CSS, JavaScript, TypeScript, React, Next JS, Redux, Bootstrap, Tailwind CSS, Material UI, SASS, jQuery, AJAX, Webpack, Jest, React Testing Library, Cypress, Enzyme, and React Router.
 Backend: Ruby, Ruby on Rails, SQL, PostgreSQL, Node.js, Express.js, MongoDB, Mongoose, and RESTful APIs.
@@ -73,13 +74,16 @@ Backend: Ruby, Ruby on Rails, SQL, PostgreSQL, Node.js, Express.js, MongoDB, Mon
 </p>
 
 ## 📊GitHub Stats :
+
 ![](https://activity-graph.herokuapp.com/graph?username=ahzamir&theme=redical&hide_border=true&area=true)
 ![](https://github-readme-stats.vercel.app/api?username=ahzamir&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahzamir&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahzamir&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=ahzamir&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ## ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
